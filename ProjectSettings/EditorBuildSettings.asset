@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 889af5e71a7320f4ab4d471d1ca08bf6
+  - enabled: 1
+    path: Assets/Scenes/CowMAIN.unity
+    guid: 035ed0538f950a6499acda7e447d669d
+  - enabled: 1
+    path: Assets/Scenes/CowMetatarsusInfo.unity
+    guid: a7e961bb907fe5f4abb1916a76e5baec
+  - enabled: 1
+    path: Assets/Scenes/ARSwitch_buttons.unity
+    guid: 122506d48e24c26438a2e2fac955d55d
+  - enabled: 1
+    path: Assets/Scenes/AR_question1.unity
+    guid: dcb0ce9adc0f3df41b481bd444585ced
+  - enabled: 1
+    path: Assets/Scenes/AR_question2new.unity
+    guid: 421064f93cf8aac4799072bd5ba9dce3
+  - enabled: 1
+    path: Assets/Scenes/AboutUs.unity
+    guid: 4452d5c6c00ca244a956c2e633e97e0f
+  - enabled: 1
+    path: Assets/Scenes/ResourcesNew.unity
+    guid: 640d95006a554764dafe6fe8a31e42cb
+  - enabled: 1
+    path: Assets/Scenes/OvisCapraMetatarsusInfo.unity
+    guid: a7188dfd9fa7a404bb6ff77cf2a298c0
+  - enabled: 1
+    path: Assets/Scenes/CanisMetatarsusInfo.unity
+    guid: 87930d36c5651a34c9958768a728ecde
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c61eaf308fdcc7741a55d9a7a1db9812, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e0e4c6ea2e3e2c4478cbe5b5f405b338, type: 2}
